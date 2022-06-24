@@ -23,3 +23,5 @@ ZK.connect(function(err) {
   });
 });
 }
+
+func();
