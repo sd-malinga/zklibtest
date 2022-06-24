@@ -2,7 +2,7 @@ const ZKLib = require('zklib');
 
 const func=()=>{
 ZK = new ZKLib({
-  ip: '165.22.212.149',
+  ip: '85.25.203.141',
   port: 4370,
   inport: 5200,
   timeout: 5000,
