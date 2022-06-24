@@ -5,7 +5,7 @@ ZK = new ZKLib({
   ip: '85.25.203.141',
   port: 4370,
   inport: 5200,
-  timeout: 5000,
+  timeout: 60000,
 });
  
 // connect to access control device
